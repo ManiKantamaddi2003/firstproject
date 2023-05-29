@@ -41,3 +41,27 @@ This folder delves into advanced Git commands and techniques to enhance your ver
 To get started with the Git Essentials course, follow these steps:
 
 1. Clone the repository to your local machine:
+2.
+2. Navigate to the specific day's folder you want to explore, such as `day-1`.
+
+3. Read the markdown files (*.md) in the folder to learn about the concepts and follow the provided examples and instructions.
+
+4. Complete the exercises in the `exercises` folder to practice and reinforce your understanding.
+
+## Contributing
+
+If you find any issues or have suggestions for improvements, feel free to contribute! Here's how:
+
+1. Fork the repository on GitHub.
+
+2. Make your changes in your local copy of the repository.
+
+3. Commit your changes and push them to your forked repository.
+
+4. Submit a pull request explaining your changes and their purpose.
+
+Please ensure that your contributions align with the learning objectives of the Git Essentials course.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.md).
